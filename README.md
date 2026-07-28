@@ -1,6 +1,6 @@
 ## 👋 Olá, eu sou o Daniel Santos
 
-Sou desenvolvedor fullstack com foco em criar soluções empresariais robustas e eficientes. Atualmente atuo como **Desenvolvedor Sênior na [Basehit](https://www.linkedin.com/company/basehit-ia/)**, onde ajudo empresas a automatizar e otimizar seus processos através de aplicações web e mobile.
+Sou desenvolvedor fullstack com foco em criar soluções robustas e eficientes.
 
 ---
 
